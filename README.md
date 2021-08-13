@@ -6,6 +6,9 @@ Semantic Software [Current WebSite](https://web.archive.org/web/*/https://cognit
 
 Semantic SoftwareAsiaPac Patents (in patents folder)
 
+## Description
+A collection of about 25 patent / patent applications, some dating back to at least july 2001, which may be found to be protected intellectual property instrumental to semantic web 
+
 Court History
 - [2018 case](https://www.caselaw.nsw.gov.au/decision/5a80d830e4b074a7c6e1c3a3)
 - [Medium Article About 2018 Case](https://medium.com/swlh/aussie-cognitive-software-startup-overturns-court-judgement-in-landmark-appeal-bcbb90f79883)
